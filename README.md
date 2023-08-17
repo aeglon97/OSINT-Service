@@ -1,2 +1,2 @@
 # OSINT-Service
-Uses the holehe tool to efficiently find information associated with email accounts.
+A service that finds all possible information associated with an email address.
